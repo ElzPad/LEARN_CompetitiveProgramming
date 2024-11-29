@@ -8,6 +8,10 @@ Currently working on Leetcode 75:
   - [X] \[Easy] 374. Guess Number Higher or Lower
     - Runtime: 0ms, beats 100% of users
     - Memory: 7.73MB, beats 32.1% of users
+- DP - 1D
+  - [X] \[Easy] 746. Min Cost Climbing Stairs
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 8.42MB, beats 20.9% of users
 - Bit Manipulation
   - [X] \[Easy] 338. Counting Bits
     - Runtime: 0ms, beats 100% of users
