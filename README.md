@@ -1,6 +1,6 @@
 # Leetcode: C
 Currently working on Leetcode 75:
-- Array / Strings
+- Array / Strings (4/9)
   - [X] \[Easy] 1768. Merge Strings Alternately
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.09MB, beats 31.9% of users
@@ -13,19 +13,23 @@ Currently working on Leetcode 75:
   - [X] \[Medium] 238. Product of Array Except Self
     - Runtime: 4ms, beats 23.5% of users
     - Memory: 32.39MB, beats 6.9% of users
-- Binary Search Tree
+- Prefix Sum (1/2)
+  - [X] \[Easy] 1732. Find the Highest Altitude
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 8.21MB, beats 21.6% of users
+- Binary Search Tree (1/2)
   - [X] \[Easy] 700. Search in a Binary Search Tree
     - Runtime: 0ms, beats 100% of users
     - Memory: 18.95MB, beats 9.1% of users
-- Binary Search
+- Binary Search (1/4)
   - [X] \[Easy] 374. Guess Number Higher or Lower
     - Runtime: 0ms, beats 100% of users
     - Memory: 7.73MB, beats 32.1% of users
-- DP - 1D
+- DP - 1D (1/4)
   - [X] \[Easy] 746. Min Cost Climbing Stairs
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.42MB, beats 20.9% of users
-- Bit Manipulation
+- Bit Manipulation (2/3)
   - [X] \[Easy] 338. Counting Bits
     - Runtime: 0ms, beats 100% of users
     - Memory: 15.2MB, beats 19.6% of users
