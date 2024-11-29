@@ -1,6 +1,9 @@
 # Leetcode: C
 Currently working on Leetcode 75:
 - Array / Strings
+  - [X] \[Easy] 1431. Kids With the Greatest Number of Candies
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 9.67MB, beats 36.7% of users
   - [X] \[Easy] 605. Can Place Flowers
     - Runtime: 0ms, beats 100% of users
     - Memory: 9.35MB, beats 34.1% of users
