@@ -21,10 +21,13 @@ Currently working on Leetcode 75:
   - [X] \[Easy] 700. Search in a Binary Search Tree
     - Runtime: 0ms, beats 100% of users
     - Memory: 18.95MB, beats 9.1% of users
-- Binary Search (1/4)
+- Binary Search (2/4)
   - [X] \[Easy] 374. Guess Number Higher or Lower
     - Runtime: 0ms, beats 100% of users
     - Memory: 7.73MB, beats 32.1% of users
+  - [X] \[Medium] 162. Find Peak Element
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 8.02MB, beats 32.2% of users
 - DP - 1D (1/4)
   - [X] \[Easy] 746. Min Cost Climbing Stairs
     - Runtime: 0ms, beats 100% of users
