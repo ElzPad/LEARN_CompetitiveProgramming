@@ -4,6 +4,10 @@ Currently working on Leetcode 75:
   - [X] \[Easy] 605. Can Place Flowers
     - Runtime: 0ms, beats 100% of users
     - Memory: 9.35MB, beats 34.1% of users
+- Binary Search Tree
+  - [X] \[Easy] 700. Search in a Binary Search Tree
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 18.95MB, beats 9.1% of users
 - Binary Search
   - [X] \[Easy] 374. Guess Number Higher or Lower
     - Runtime: 0ms, beats 100% of users
