@@ -1,6 +1,9 @@
 # Leetcode: C
 Currently working on Leetcode 75:
 - Array / Strings
+  - [X] \[Easy] 1768. Merge Strings Alternately
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 8.09MB, beats 31.9% of users
   - [X] \[Easy] 1431. Kids With the Greatest Number of Candies
     - Runtime: 0ms, beats 100% of users
     - Memory: 9.67MB, beats 36.7% of users
