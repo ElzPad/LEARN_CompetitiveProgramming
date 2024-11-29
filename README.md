@@ -10,6 +10,9 @@ Currently working on Leetcode 75:
   - [X] \[Easy] 605. Can Place Flowers
     - Runtime: 0ms, beats 100% of users
     - Memory: 9.35MB, beats 34.1% of users
+  - [X] \[Medium] 238. Product of Array Except Self
+    - Runtime: 4ms, beats 23.5% of users
+    - Memory: 32.39MB, beats 6.9% of users
 - Binary Search Tree
   - [X] \[Easy] 700. Search in a Binary Search Tree
     - Runtime: 0ms, beats 100% of users
