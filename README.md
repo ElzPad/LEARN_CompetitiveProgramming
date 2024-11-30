@@ -29,6 +29,10 @@ Currently working on Leetcode 75:
   - [X] \[Easy] 700. Search in a Binary Search Tree
     - Runtime: 0ms, beats 100% of users
     - Memory: 18.95MB, beats 9.1% of users
+- Graph - DFS (1/4)
+  - [X] \[Medium] 547. Number of Provinces
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 11.39MB, beats 79% of users
 - Binary Search (2/4)
   - [X] \[Easy] 374. Guess Number Higher or Lower
     - Runtime: 0ms, beats 100% of users
