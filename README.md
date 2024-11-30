@@ -17,6 +17,10 @@ Currently working on Leetcode 75:
   - [X] \[Easy] 1732. Find the Highest Altitude
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.21MB, beats 21.6% of users
+- Binary Tree - DFS (1/6)
+  - [X] \[Easy] 104. Maximum Depth of Binary Tree
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 11.37MB, beats 30.7% of users
 - Binary Search Tree (1/2)
   - [X] \[Easy] 700. Search in a Binary Search Tree
     - Runtime: 0ms, beats 100% of users
