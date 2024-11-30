@@ -40,7 +40,10 @@ Currently working on Leetcode 75:
   - [X] \[Medium] 162. Find Peak Element
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.02MB, beats 32.2% of users
-- DP - 1D (1/4)
+- DP - 1D (2/4)
+  - [X] \[Easy] 1137. N-th Tribonacci Number
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 7.88MB, beats 16.4% of users
   - [X] \[Easy] 746. Min Cost Climbing Stairs
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.42MB, beats 20.9% of users
