@@ -1,5 +1,5 @@
-# Leetcode: C
-Currently working on Leetcode 75:
+# Leetcode: C / C++
+Currently working on "Leetcode 75" list of problems:
 - Array / Strings (5/9)
   - [X] \[Easy] 1768. Merge Strings Alternately
     - Runtime: 0ms, beats 100% of users
