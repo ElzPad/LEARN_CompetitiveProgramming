@@ -32,10 +32,13 @@ Currently working on Leetcode 75:
   - [X] \[Medium] 328. Odd Even Linked List
     - Runtime: 0ms, beats 100% of users
     - Memory: 11.46MB, beats 25.2% of users
-- Binary Tree - DFS (1/6)
+- Binary Tree - DFS (2/6)
   - [X] \[Easy] 104. Maximum Depth of Binary Tree
     - Runtime: 0ms, beats 100% of users
     - Memory: 11.37MB, beats 30.7% of users
+  - [X] \[Medium] 1372. Longest ZigZag Path in a Binary Tree
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 57.48MB, beats 8.1% of users
 - Binary Search Tree (1/2)
   - [X] \[Easy] 700. Search in a Binary Search Tree
     - Runtime: 0ms, beats 100% of users
