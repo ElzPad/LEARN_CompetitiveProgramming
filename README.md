@@ -24,6 +24,10 @@ Currently working on Leetcode 75:
   - [X] \[Easy] 1732. Find the Highest Altitude
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.21MB, beats 21.6% of users
+- Linked List (1/4)
+  - [X] \[Medium] 328. Odd Even Linked List
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 11.46MB, beats 25.2% of users
 - Binary Tree - DFS (1/6)
   - [X] \[Easy] 104. Maximum Depth of Binary Tree
     - Runtime: 0ms, beats 100% of users
