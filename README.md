@@ -72,3 +72,10 @@ Currently working on "Leetcode 75" list of problems:
   - [X] \[Easy] 136. Single Number
     - Runtime: 3ms, beats 19.8% of users
     - Memory: 9.33MB, beats 38.1% of users
+
+# LeetCode: JavaScript / TypeScript
+Currently working on "30 Days of JavaScript" list of problems:
+- Closures (1/4)
+  - [X] \[Easy] 2667. Create Hello World Function
+    - Runtmime: 53ms, beats 69.15% of users
+    - Memory: 51.43MB, beats 7.0% of users
