@@ -75,10 +75,13 @@ Currently working on "Leetcode 75" list of problems:
 
 # LeetCode: JavaScript / TypeScript
 Currently working on "30 Days of JavaScript" list of problems:
-- Closures (2/4)
+- Closures (3/4)
   - [X] \[Easy] 2667. Create Hello World Function
     - Runtmime: 53ms, beats 69.15% of users
     - Memory: 51.43MB, beats 7.0% of users
   - [X] \[Easy] 2620. Counter
     - Runtime: 56ms, beats 58.9% of users
     - Memory: 51.52MB, beats 18.4% of users
+  - [X] \[Easy] 2604. To Be or Not To Be
+    - Runtime: 51ms, beats 85.7% of users
+    - Memory: 51.54MB, beats 11.8% of users
