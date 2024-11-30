@@ -65,13 +65,16 @@ Currently working on "Leetcode 75" list of problems:
   - [X] \[Easy] 746. Min Cost Climbing Stairs
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.42MB, beats 20.9% of users
-- Bit Manipulation (2/3)
+- Bit Manipulation (3/3)
   - [X] \[Easy] 338. Counting Bits
     - Runtime: 0ms, beats 100% of users
     - Memory: 15.2MB, beats 19.6% of users
   - [X] \[Easy] 136. Single Number
     - Runtime: 3ms, beats 19.8% of users
     - Memory: 9.33MB, beats 38.1% of users
+  - [X] \[Medium] 1318. Minimum Flips to Make a OR b Equal to c
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 7.75MB, beats 24.0% of users
 
 # LeetCode: JavaScript / TypeScript
 Currently working on "30 Days of JavaScript" list of problems:
