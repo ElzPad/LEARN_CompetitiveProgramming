@@ -43,6 +43,10 @@ Currently working on Leetcode 75:
   - [X] \[Medium] 162. Find Peak Element
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.02MB, beats 32.2% of users
+- Backtracking (1/2)
+  - [X] \[Medium] 17. Letter Combination of a Phone Number
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 8.34MB, beats 36.1% of users
 - DP - 1D (2/4)
   - [X] \[Easy] 1137. N-th Tribonacci Number
     - Runtime: 0ms, beats 100% of users
