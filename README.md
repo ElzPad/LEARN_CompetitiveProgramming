@@ -88,7 +88,10 @@ Currently working on "30 Days of JavaScript" list of problems:
   - [X] \[Easy] 2665. Counter 1
     - Runtime: 56ms, beats 89.9% of users
     - Memory: 52.41MB, beats 23.6% of users
-- Basic Array Transformations (1/3)
+- Basic Array Transformations (2/3)
   - [X] \[Easy] 2635. Apply Transform Over Each Element in Array
     - Runtime: 55ms, beats 66.6% of users
     - Memory: 51.78MB, beats 5.3% of users
+  - [X] \[Easy] 2634. Filter Elements from Array
+    - Runtime: 55ms, 75.2% of users
+    - Memory: 51.60MB, beats 54.1% of users
