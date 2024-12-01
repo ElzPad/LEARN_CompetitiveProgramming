@@ -1,6 +1,6 @@
 # Leetcode: C / C++
 Currently working on "Leetcode 75" list of problems:
-- Array / Strings (5/9)
+- Array / Strings (6/9)
   - [X] \[Easy] 1768. Merge Strings Alternately
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.09MB, beats 31.9% of users
@@ -13,6 +13,9 @@ Currently working on "Leetcode 75" list of problems:
   - [X] \[Easy] 345. Reverse Vowels of a String
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.86MB, beats 55.8% of users
+  - [X] \[Medium] 151. Reverse Words in a String
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 8.59MB, beats 45.1% of users
   - [X] \[Medium] 238. Product of Array Except Self
     - Runtime: 4ms, beats 23.5% of users
     - Memory: 32.39MB, beats 6.9% of users
