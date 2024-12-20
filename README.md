@@ -34,6 +34,10 @@ Currently working on "Leetcode 75" list of problems:
   - [X] \[Easy] 1732. Find the Highest Altitude
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.21MB, beats 21.6% of users
+- Stack (1/3)
+  - [X] \[Medium] 2390. Removing stars from a string
+    - Runtime: 12ms, beats 87.1% of users
+    - Memory: 26.70MB, beats 89.1% of users
 - Linked List (1/4)
   - [X] \[Medium] 328. Odd Even Linked List
     - Runtime: 0ms, beats 100% of users
