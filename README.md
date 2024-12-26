@@ -1,6 +1,6 @@
 # Leetcode: C / C++
 Currently working on "Leetcode 75" list of problems:
-- Array / Strings (7/9)
+- Array / Strings (8/9)
   - [X] \[Easy] 1768. Merge Strings Alternately
     - Runtime: 0ms, beats 100% of users
     - Memory: 8.09MB, beats 31.9% of users
@@ -22,6 +22,9 @@ Currently working on "Leetcode 75" list of problems:
   - [X] \[Medium] 334. Increasing Triplet Subsequence
     - Runtime: 4ms, beats 21.1% of users
     - Memory: 26.24MB, beats 24.6% of users
+  - [X] \[Medium]: 443. String Compression
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 12.74MB, beats 95.5% of users
 - Two Pointers (1/4)
   - [X] \[Easy] 283. Move Zeroes
     - Runtime: 0ms, beats 100% of users
