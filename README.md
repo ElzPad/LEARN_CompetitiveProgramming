@@ -29,13 +29,16 @@ Currently working on "Leetcode 75" list of problems:
   - [X] \[Easy] 283. Move Zeroes
     - Runtime: 0ms, beats 100% of users
     - Memory: 19.68MB, beats 33.6% of users
-- Sliding Window (2/4)
+- Sliding Window (3/4)
   - [X] \[Easy] 643. Maximum Average Subarray 1
     - Runtime: 0ms, beats 100% of users
     - Memory: 16.36MB, beats 36.8% of users
   - [X] \[Medium] 1456. Maximum Number of Vowels in a Substring of Given Length
     - Runtime: 4ms, beats 64.0% of users
     - Memory: 9.32MB, beats 41.1% of users
+  - [X] \[Medium] 1493. Longest Subarray of 1's After Deleting One Element
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 13.52MB, beats 24.8% of users
 - Prefix Sum (1/2)
   - [X] \[Easy] 1732. Find the Highest Altitude
     - Runtime: 0ms, beats 100% of users
