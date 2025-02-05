@@ -101,6 +101,12 @@ Currently working on "Leetcode 75" list of problems:
     - Runtime: 0ms, beats 100% of users
     - Memory: 7.75MB, beats 24.0% of users
 
+Other problems:
+- [X] \[Easy] 387. First Unique Character in a String
+    - Runtime: 3ms, beats 76.4% of users
+    - Memory: 9.79MB, beats 47.3% of users
+
+
 # LeetCode: JavaScript / TypeScript
 Currently working on "30 Days of JavaScript" list of problems:
 - Closures (4/4)
