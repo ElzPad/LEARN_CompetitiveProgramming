@@ -108,6 +108,9 @@ Other problems:
 - [X] \[Easy] 572. Subtree of Another Tree
     - Runtime: 3ms, beats 30.0% of users
     - Memory: 28.83MB, beats 82.5% of users
+- [X] \[Medium] 973. K Closest Points to Origin
+    - Runtime: 33ms, beats 75.6% of users
+    - Memory: 61.67MB, beats 95.2% of users
 - [X] \[Easy] 1176. Diet Plan Performance
     - Runtime: 0ms, beats 100% of users
     - Memory: 27.02MB, beats 10.1% of users
