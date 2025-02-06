@@ -117,6 +117,9 @@ Other problems:
 - [X] \[Easy] 1710. Maximum Units on a Truck
     - Runtime: 8ms, beats 39.5% of users
     - Memory: 20.92MB, beats 28.1% of users
+- [X] \[Medium] 1726. Tuple with same product
+    - Runtime: 307ms, beats 71.8% of users
+    - Memory: 84.89MB, beats 81.7% of users
 
 # LeetCode: JavaScript / TypeScript
 Currently working on "30 Days of JavaScript" list of problems:
