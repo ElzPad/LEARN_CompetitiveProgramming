@@ -102,6 +102,9 @@ Currently working on "Leetcode 75" list of problems:
     - Memory: 7.75MB, beats 24.0% of users
 
 Other problems:
+- [X] \[Easy] 1. Two Sum
+    - Runtime: 4ms, beats 61.5% of users
+    - Memory: 14.77MB, beats 47.9% of users
 - [X] \[Medium] 200. Number of Islands
     - Runtime: 26ms, beats 65.3% of users
     - Memory: 16.17MB, beats 89.3% of users
