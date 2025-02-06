@@ -120,6 +120,9 @@ Other problems:
 - [X] \[Medium] 1726. Tuple with same product
     - Runtime: 307ms, beats 71.8% of users
     - Memory: 84.89MB, beats 81.7% of users
+- [X] \[Easy] 2357. Make Array Zero by Subtracting Equal Amounts
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 10.94MB, beats 71.3% of users
 
 # LeetCode: JavaScript / TypeScript
 Currently working on "30 Days of JavaScript" list of problems:
