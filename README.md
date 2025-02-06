@@ -105,7 +105,9 @@ Other problems:
 - [X] \[Easy] 387. First Unique Character in a String
     - Runtime: 3ms, beats 76.4% of users
     - Memory: 9.79MB, beats 47.3% of users
-
+- [X] \[Medium] 1492. The kth Factor of n
+    - Runtime: 0ms, beats 100.0% of users
+    - Memory: 7.9MB, beats 63.0% of users
 
 # LeetCode: JavaScript / TypeScript
 Currently working on "30 Days of JavaScript" list of problems:
