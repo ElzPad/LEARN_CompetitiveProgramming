@@ -105,6 +105,9 @@ Other problems:
 - [X] \[Easy] 1. Two Sum
     - Runtime: 4ms, beats 61.5% of users
     - Memory: 14.77MB, beats 47.9% of users
+- [X] \[Easy] 121. Best Time to Buy and Sell Stock
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 97.35MB, beats 60.8% of users
 - [X] \[Medium] 200. Number of Islands
     - Runtime: 26ms, beats 65.3% of users
     - Memory: 16.17MB, beats 89.3% of users
