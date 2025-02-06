@@ -108,6 +108,9 @@ Other problems:
 - [X] \[Medium] 1492. The kth Factor of n
     - Runtime: 0ms, beats 100.0% of users
     - Memory: 7.9MB, beats 63.0% of users
+- [X] \[Easy] 1710. Maximum Units on a Truck
+    - Runtime: 8ms, beats 39.5% of users
+    - Memory: 20.92MB, beats 28.1% of users
 
 # LeetCode: JavaScript / TypeScript
 Currently working on "30 Days of JavaScript" list of problems:
