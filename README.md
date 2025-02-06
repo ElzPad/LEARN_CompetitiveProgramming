@@ -105,6 +105,9 @@ Other problems:
 - [X] \[Easy] 387. First Unique Character in a String
     - Runtime: 3ms, beats 76.4% of users
     - Memory: 9.79MB, beats 47.3% of users
+- [X] \[Easy] 572. Subtree of Another Tree
+    - Runtime: 3ms, beats 30.0% of users
+    - Memory: 28.83MB, beats 82.5% of users
 - [X] \[Easy] 1176. Diet Plan Performance
     - Runtime: 0ms, beats 100% of users
     - Memory: 27.02MB, beats 10.1% of users
