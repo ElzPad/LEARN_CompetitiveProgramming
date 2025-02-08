@@ -135,6 +135,9 @@ Other problems:
 - [X] \[Medium] 1726. Tuple with same product
     - Runtime: 307ms, beats 71.8% of users
     - Memory: 84.89MB, beats 81.7% of users
+- [X] \[Medium] 2268. Minimum Number of Keypresses
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 12.24MB, beats 12.0% of users
 - [X] \[Medium] 2340. Minimum Adjacent Swaps to Make a Valid Array
     - Runtime: 0ms, beats 100% of users
     - Memory: 53.71MB, beats 67.8% of users
