@@ -105,6 +105,9 @@ Other problems:
 - [X] \[Easy] 1. Two Sum
     - Runtime: 4ms, beats 61.5% of users
     - Memory: 14.77MB, beats 47.9% of users
+- [X] \[Medium] 56. Merge Intervals
+    - Runtime: 3ms, beats 90.0% of users
+    - Memory: 23.9MB, beats 34.7% of users
 - [X] \[Easy] 121. Best Time to Buy and Sell Stock
     - Runtime: 0ms, beats 100% of users
     - Memory: 97.35MB, beats 60.8% of users
