@@ -135,6 +135,9 @@ Other problems:
 - [X] \[Easy] 2357. Make Array Zero by Subtracting Equal Amounts
     - Runtime: 0ms, beats 100% of users
     - Memory: 10.94MB, beats 71.3% of users
+- [X] \[Medium] 2405. Optimal Partition of String
+    - Runtime: 0ms, beats 100% of users
+    - Memory: 13.14MB, beats 65.6% of users
 
 # LeetCode: JavaScript / TypeScript
 Currently working on "30 Days of JavaScript" list of problems:
