@@ -117,6 +117,9 @@ Other problems:
 - [X] \[Medium] 200. Number of Islands
     - Runtime: 26ms, beats 65.3% of users
     - Memory: 16.17MB, beats 89.3% of users
+- [X] \[Easy] 217. Contains Duplicate
+    - Runtime: 16ms, beats 95.1% of users
+    - Memory: 61.33MB, beats 74.2% of users
 - [X] \[Easy] 387. First Unique Character in a String
     - Runtime: 3ms, beats 76.4% of users
     - Memory: 9.79MB, beats 47.3% of users
