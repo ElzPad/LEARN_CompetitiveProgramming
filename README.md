@@ -13,6 +13,7 @@
 | 0200\. Number of Islands                                       | Medium     | C++      | 26           | 65.3        | 16.17       | 89.3       |
 | 0217\. Contains Duplicate                                      | Easy       | C++      | 16           | 95.1        | 61.33       | 74.2       |
 | 0238\. Product of Array Except Self                            | Medium     | C        | 4            | 23.5        | 32.39       | 6.9        |
+| 0238\. Valid Anagram                                           | Easy       | C++      | 7            | 22.1        | 9.55        | 90.1       |
 | 0283\. Move Zeroes                                             | Easy       | C        | 0            | 100         | 19.68       | 33.6       |
 | 0328\. Odd Even Linked List                                    | Medium     | C        | 0            | 100         | 11.46       | 25.2       |
 | 0334\. Increasing Triplet Subsequence                          | Medium     | C        | 4            | 21.1        | 26.24       | 24.6       |
