@@ -19,6 +19,7 @@
 | 0334\. Increasing Triplet Subsequence                          | Medium     | C        | 4            | 21.1        | 26.24       | 24.6       |
 | 0338\. Counting Bits                                           | Easy       | C        | 0            | 100         | 15.2        | 19.6       |
 | 0345\. Reverse Vowels of a String                              | Easy       | C        | 0            | 100         | 8.86        | 55.8       |
+| 0347\. Top K Frequent Elements                                 | Medium     | C++       | 0            | 100         | 20.00       | 5.8        |
 | 0374\. Guess Number Higher or Lower                            | Easy       | C        | 0            | 100         | 7.73        | 32.1       |
 | 0387\. First Unique Character in a String                      | Easy       | C        | 3            | 76.4        | 9.79        | 47.3       |
 | 0443\. String Compression                                      | Medium     | C++      | 0            | 100         | 12.74       | 95.5       |
@@ -93,6 +94,14 @@ Currently working on "Leetcode 75" list of problems:
   - [X] \[Easy] 0338. Counting Bits
   - [X] \[Easy] 0136. Single Number
   - [X] \[Medium] 1318. Minimum Flips to Make a OR b Equal to c
+
+Currently working on "NeetCode 150" list of problems:
+- Arrays and Hashing (5/9)
+  - [X] \[Easy] 0217. Contains Duplicate
+  - [X] \[Easy] 0242. Valid Anagram
+  - [X] \[Easy] 0001. Two Sum
+  - [X] \[Medium] 0049. Group Anagrams
+  - [X] \[Medium] 0347. Top K Frequent Elements
 
 # LeetCode: JavaScript / TypeScript
 | Title                                             | Difficulty | Language   | Runtime (ms) | Runtime (%) | Memory (MB) | Memory (%) |
