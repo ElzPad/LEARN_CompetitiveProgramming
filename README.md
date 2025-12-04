@@ -1,3 +1,8 @@
+# Advent of Code: 2025
+- [X] Day 01
+  - [X] Part 1 \[Python]
+  - [X] Part 2 \[Python]
+
 # Leetcode: C / C++
 | Title                                                          | Difficulty | Language | Runtime (ms) | Runtime (%) | Memory (MB) | Memory (%) |
 | :------------------------------------------------------------- | ---------- | -------- | ------------ | ----------- | ----------- | ---------- |
