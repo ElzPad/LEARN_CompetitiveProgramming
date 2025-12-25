@@ -20,6 +20,9 @@
 - [X] Day 07
   - [X] Part 1 \[Python]
   - [X] Part 2 \[Python]
+- [X] Day 08
+  - [X] Part 1 \[Python]
+  - [X] Part 2 \[Python]
 
 # Leetcode: C / C++
 | Title                                                          | Difficulty | Language | Runtime (ms) | Runtime (%) | Memory (MB) | Memory (%) |
